@@ -213,11 +213,22 @@ Data-centric machine learning; low-resource ASR; synthetic speech and data selec
 ]
 
 #section[Selected Systems & Projects]
-#compactentry(
-  [CU NEX election and attendance platform],
-  [2025 - Present],
-)[
-  Internal platform covering candidate/admin panels, candidate forms, attendance workflows, backend APIs, reporting, tests, and deployment practices. Used by 27+ admins and 255+ candidates.
+#block(breakable: false)[
+  #compactentry(
+    [Election Management System (EMS)],
+    [Aug 2024 - Jun 2025],
+  )[
+    Internal platform covering candidate/admin panels, candidate forms, backend APIs, reporting, tests, and deployment practices. Used by 27+ admins and 255+ candidates.
+  ]
+]
+
+#block(breakable: false)[
+  #compactentry(
+    [QuickAttend],
+    [Jul 2025 - Jun 2026],
+  )[
+    Web-based attendance platform that lets students and activity staff scan CU NEX QR codes to register participation, with centralized attendance records for activity organizers.
+  ]
 ]
 
 #compactentry(

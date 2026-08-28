@@ -95,8 +95,16 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 ]
 
 #section[ระบบและโครงการ]
-#project([CU NEX election and attendance platform], [2025 - ปัจจุบัน])[
-  ระบบภายในสำหรับ candidate/admin panels, forms, attendance workflows, backend APIs, reporting, tests และ deployment ใช้งานโดยผู้ดูแล 27+ คนและผู้สมัคร 255+ คน
+#block(breakable: false)[
+  #project([ระบบบริหารจัดการการเลือกตั้ง (Election Management System: EMS)], [ส.ค. 2024 - มิ.ย. 2025])[
+    ระบบภายในสำหรับหน้าจอผู้สมัครและผู้ดูแล แบบฟอร์มผู้สมัคร backend APIs การรายงาน การทดสอบ และการ deploy ใช้งานโดยผู้ดูแล 27+ คนและผู้สมัคร 255+ คน
+  ]
+]
+
+#block(breakable: false)[
+  #project([QuickAttend], [ก.ค. 2025 - มิ.ย. 2026])[
+    ระบบลงทะเบียนเข้าร่วมกิจกรรมผ่านเว็บ ให้ผู้เข้าร่วมและเจ้าหน้าที่สแกน QR code ของ CU NEX เพื่อลงทะเบียน และจัดเก็บข้อมูลการเข้าร่วมกิจกรรมแบบรวมศูนย์
+  ]
 ]
 #project([ระบบขายคอร์สและชำระเงิน BIZCUBE Chula], [มี.ค. 2026 - ก.ค. 2026])[
   ระบบขายคอร์สและชำระเงินสำหรับคณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย รองรับยอดธุรกรรมรวมประมาณ 8 ล้านบาท
