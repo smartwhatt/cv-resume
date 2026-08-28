@@ -3,7 +3,7 @@
 #set page(paper: "a4", margin: (top: 0.8in, bottom: 0.8in, left: 0.85in, right: 0.85in), numbering: "1")
 #set text(font: (locale.font, "New Computer Modern"), size: 10pt)
 #set par(leading: 0.75em, spacing: 0.45em)
-#set list(indent: 1.1em, body-indent: 0.5em, spacing: 0.25em)
+#set list(indent: 1.1em, body-indent: 0.5em, spacing: 0.6em)
 #let sep = [ | ]
 #let section(title) = { v(1.1em); text(weight: "bold")[#title]; v(0.12em); line(length: 100%, stroke: 0.5pt); v(0.55em) }
 #let entry(title, org, dates, location, body) = {
