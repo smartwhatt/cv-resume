@@ -16,6 +16,13 @@ typst compile th/resume.typ th/resume.pdf
 typst compile th/cv.typ th/cv.pdf
 ```
 
+Compile Thai documents with the bundled Sarabun font:
+
+```powershell
+typst compile --root . --font-path fonts th/resume.typ th/resume.pdf
+typst compile --root . --font-path fonts th/cv.typ th/cv.pdf
+```
+
 The PDFs are committed so the current versions can be viewed without Typst.
 
 `locales/` holds language-specific metadata and labels. `templates/shared.typ`

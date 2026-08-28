@@ -1,6 +1,6 @@
 #let locale = (
   code: "th",
-  font: "Noto Sans Thai",
+  font: "Sarabun",
   labels: (
     education: [การศึกษา],
     experience: [ประสบการณ์วิจัยและวิชาชีพ],
