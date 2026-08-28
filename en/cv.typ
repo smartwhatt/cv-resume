@@ -184,12 +184,14 @@ Data-centric machine learning; low-resource ASR; synthetic speech and data selec
 ]
 
 #subentry(
-  [Teaching Assistant],
+  [Teaching Assistant, Super AI Engineer Season 6],
   [Artificial Intelligence Association of Thailand],
   [May 2026 - Jun 2026],
   [Pathum Thani, Thailand],
 )[
-  - Served as Teaching Assistant for Super AI Engineer Season 6: Digital Workforce Transformation.
+  - Assisted instructors during lectures and supported learning activities for Digital Workforce Transformation.
+  - Set up Kaggle-based competition workflows and consolidated hackathon scores for program review.
+  - Shared applied AI project experience with participants during program sessions.
 ]
 
 #subentry(

@@ -96,16 +96,6 @@
 ]
 
 #dated(
-  [Fullstack Developer],
-  [BIZCUBE Chula, Chulalongkorn Business Administration],
-  [Mar 2026 - Jul 2026],
-  [Bangkok, Thailand],
-)[
-  - Implemented course-selling, payment, user-facing, and administrative workflows handling approximately 8M baht in total transactions.
-  - Supported operations and marketing teams with data and course logistics, using agentic workflows to improve task productivity by 50%.
-]
-
-#dated(
   [AI Researcher Intern, Speech & Multimodal Learning],
   [OpenThaiGPT Lab / iApp Technology / Super AI Engineer SS5 Research Track],
   [May 2025 - Mar 2026],

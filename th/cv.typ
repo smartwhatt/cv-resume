@@ -82,8 +82,10 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 #entry([ผู้ช่วยสอน ITE68367 Special Topics in Digital Technology 2], [Master of Science in Information Technology, Sripathum University], [มิ.ย. 2026 - ก.ค. 2026], [ประเทศไทย])[
   - พัฒนา LMS ของรายวิชา ตรวจงาน และสอนหัวข้อ agentic AI tools และ LLM prompting
 ]
-#entry([ผู้ช่วยสอน], [สมาคมปัญญาประดิษฐ์ประเทศไทย], [พ.ค. 2026 - มิ.ย. 2026], [ปทุมธานี ประเทศไทย])[
-  - ผู้ช่วยสอน Super AI Engineer Season 6: Digital Workforce Transformation
+#entry([ผู้ช่วยสอน Super AI Engineer Season 6], [สมาคมปัญญาประดิษฐ์ประเทศไทย], [พ.ค. 2026 - มิ.ย. 2026], [ปทุมธานี ประเทศไทย])[
+  - สนับสนุนผู้สอนระหว่างการบรรยายและกิจกรรมการเรียนรู้ในหลักสูตร Digital Workforce Transformation
+  - จัดเตรียม workflow การแข่งขันบน Kaggle และรวบรวมคะแนน hackathon เพื่อใช้ในการประเมินผลโครงการ
+  - แลกเปลี่ยนประสบการณ์การทำโครงการ AI เชิงประยุกต์กับผู้เข้าร่วมกิจกรรม
 ]
 #entry([ผู้ช่วยสอน], [กองทัพอากาศ], [21-24, 27 เม.ย. 2026], [ประเทศไทย])[
   - สอนหัวข้อ Graph RAG 1 session และช่วยผู้บรรยายใน session อื่น
