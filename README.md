@@ -17,3 +17,7 @@ typst compile th/cv.typ th/cv.pdf
 ```
 
 The PDFs are committed so the current versions can be viewed without Typst.
+
+`locales/` holds language-specific metadata and labels. `templates/shared.typ`
+contains reusable layout primitives; subsequent localization passes will move
+document records and prose into the locale modules.

@@ -1,9 +1,11 @@
+#import "../locales/en.typ": locale
+#set text(lang: locale.code)
 #set page(
   paper: "a4",
   margin: (top: 0.8in, bottom: 0.8in, left: 0.85in, right: 0.85in),
   numbering: "1",
 )
-#set text(font: "New Computer Modern", size: 10pt)
+#set text(font: locale.font, size: 10pt)
 #set par(leading: 0.75em, spacing: 0.45em)
 #set list(indent: 1.1em, body-indent: 0.5em, spacing: 0.25em)
 

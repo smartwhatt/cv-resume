@@ -1,5 +1,7 @@
+#import "../locales/th.typ": locale
+#set text(lang: locale.code)
 #set page(paper: "a4", margin: (top: 0.75in, bottom: 0.75in, left: 0.75in, right: 0.75in))
-#set text(font: ("Noto Sans Thai", "New Computer Modern"), size: 10pt)
+#set text(font: (locale.font, "New Computer Modern"), size: 10pt)
 #set par(leading: 0.7em, spacing: 0.45em)
 #set list(indent: 1.1em, body-indent: 0.5em, spacing: 0.25em)
 #let sep = [ | ]
