@@ -14,7 +14,7 @@
 #let project(title, dates, body) = { grid(columns: (1fr, auto), column-gutter: 1em, [#text(weight: "bold")[#title]], align(right)[#dates]); body; v(0.7em) }
 
 #align(center)[
-  #text(size: 16pt, weight: "bold")[Smart Wattanapornmongkol]
+  #text(size: 16pt, weight: "bold")[สมัชญ์ วัฒนพรมงคล]
   #v(0.4em)
   กรุงเทพมหานคร ประเทศไทย #sep #link("mailto:smartwattana@gmail.com")[smartwattana\@gmail.com]
   #linebreak()

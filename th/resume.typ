@@ -13,7 +13,7 @@
 }
 
 #align(center)[
-  #text(size: 16pt, weight: "bold")[Smart Wattanapornmongkol]
+  #text(size: 16pt, weight: "bold")[สมัชญ์ วัฒนพรมงคล]
   #v(0.4em)
   กรุงเทพมหานคร ประเทศไทย #sep #link("mailto:smartwattana@gmail.com")[smartwattana\@gmail.com]
   #linebreak()
