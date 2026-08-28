@@ -1,7 +1,7 @@
 #let locale = (
   code: "en",
   fonts: ("New Computer Modern",),
-  list-spacing: 0.25em,
+  list-spacing: 0.5em,
   person: (
     name: [Smart Wattanapornmongkol],
     location: [Bangkok, Thailand],

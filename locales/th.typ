@@ -1,7 +1,7 @@
 #let locale = (
   code: "th",
   fonts: ("Sarabun", "New Computer Modern"),
-  list-spacing: 0.6em,
+  list-spacing: 0.7em,
   person: (name: [สมัชญ์ วัฒนพรมงคล], location: [กรุงเทพมหานคร ประเทศไทย]),
   resume: (
     sections: (
