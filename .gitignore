@@ -1,0 +1,4 @@
+rendered/
+*-check-*.png
+.typst/
+*.tmp
