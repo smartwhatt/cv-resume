@@ -79,7 +79,7 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 #entry([ทีมผู้สอน], [AIAT x College of Arts, Media and Technology, Chiang Mai University AI Entrepreneur Curriculum], [ส.ค. 2026 - ก.ย. 2026], [เชียงใหม่ ประเทศไทย])[
   - สอน 5 หัวข้อ: LLM Prompting และ Gemini Notebook; RAG; Security for AI Applications; Agentic AI Applications; และ Deploying AI-enabled Systems
 ]
-#entry([ผู้ช่วยสอน ITE68367 Special Topics in Digital Technology 2], [Master of Science in Information Technology, Sripathum University], [มิ.ย. 2026 - ก.ค. 2026], [ประเทศไทย])[
+#entry([ผู้ช่วยสอน ITE68367 หัวข้อพิเศษในเทคโนโลยีดิจิทัล 2], [หลักสูตรวิทยาศาสตรมหาบัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศ มหาวิทยาลัยศรีปทุม], [มิ.ย. 2026 - ก.ค. 2026], [ประเทศไทย])[
   - พัฒนา LMS ของรายวิชา ตรวจงาน และสอนหัวข้อ agentic AI tools และ LLM prompting
 ]
 #entry([ผู้ช่วยสอน Super AI Engineer Season 6], [สมาคมปัญญาประดิษฐ์ประเทศไทย], [พ.ค. 2026 - มิ.ย. 2026], [ปทุมธานี ประเทศไทย])[
@@ -90,7 +90,7 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 #entry([ผู้ช่วยสอน], [กองทัพอากาศ], [21-24, 27 เม.ย. 2026], [ประเทศไทย])[
   - สอนหัวข้อ Graph RAG 1 session และช่วยผู้บรรยายใน session อื่น
 ]
-#entry([Coach], [National Electronics and Computer Technology Center (NECTEC)], [ก.พ. 2026 - เม.ย. 2026], [กรุงเทพมหานคร ประเทศไทย])[
+#entry([Coach], [ศูนย์เทคโนโลยีอิเล็กทรอนิกส์และคอมพิวเตอร์แห่งชาติ (NECTEC)], [ก.พ. 2026 - เม.ย. 2026], [กรุงเทพมหานคร ประเทศไทย])[
   - ให้คำปรึกษาผู้เข้าร่วมกิจกรรมด้าน AI และวิศวกรรม
 ]
 
