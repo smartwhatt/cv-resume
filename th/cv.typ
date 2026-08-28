@@ -30,7 +30,7 @@
 Data-centric machine learning; low-resource ASR; synthetic speech และ data selection; Thai language AI; structure from motion; physics-informed neural networks; backend infrastructure สำหรับระบบการศึกษาและองค์กรนิสิต
 
 #section[การศึกษา]
-#entry([วิศวกรรมศาสตรบัณฑิต สาขาวิศวกรรมสารสนเทศและการสื่อสาร], [จุฬาลงกรณ์มหาวิทยาลัย, International School of Engineering], [ส.ค. 2024 - คาดว่าจะจบ ต.ค. 2028], [กรุงเทพมหานคร ประเทศไทย])[
+#entry([วศ.บ. สาขาวิศวกรรมสารสนเทศและการสื่อสาร (หลักสูตรนานาชาติ)], [จุฬาลงกรณ์มหาวิทยาลัย], [ส.ค. 2024 - คาดว่าจะจบ ต.ค. 2028], [กรุงเทพมหานคร ประเทศไทย])[
   - CGPA: 3.88/4.00
   - ทุน ISE50 Academic Excellence Scholarship ประจำปีการศึกษา 2025
 ]
@@ -39,7 +39,7 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 ]
 
 #section[ตำแหน่งและประสบการณ์]
-#entry([ผู้ช่วยผู้จัดการ AI Academy], [Artificial Intelligence Association of Thailand], [มิ.ย. 2026 - ปัจจุบัน], [ประเทศไทย])[
+#entry([ผู้ช่วยผู้จัดการ AI Academy], [สมาคมปัญญาประดิษฐ์ประเทศไทย], [มิ.ย. 2026 - ปัจจุบัน], [ประเทศไทย])[
   - ประสานงานการดำเนินงานและการจัดการเรียนการสอนของ Super AI Engineer Season 6 และหลักสูตรพันธมิตร
   - ประสานงานโลจิสติกส์การสอน เมนเทอร์ การติดตามผู้เรียน และการติดตามโครงการ
   - จัดเตรียมสื่อการสอนและรวบรวมประเด็นการดำเนินงานสำหรับผู้สอนและผู้ดูแลหลักสูตร
@@ -59,10 +59,10 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
   - ดำรงตำแหน่ง Technical Lead ตั้งแต่มิ.ย. 2026 ต่อจาก Back End Developer และ Inner of Secretary Department
   - ประสานงานด้านเทคนิคและดูแลระบบภายในของชุมชน International School of Engineering
 ]
-#entry([Fullstack Developer], [BIZCUBE Chula, Chulalongkorn Business Administration], [มี.ค. 2026 - ก.ค. 2026], [กรุงเทพมหานคร ประเทศไทย])[
-  - พัฒนาหน้าการขายคอร์สและชำระเงิน รองรับยอดธุรกรรมรวมประมาณ 8 ล้านบาท
-  - พัฒนา workflow สำหรับผู้ใช้และผู้ดูแลระบบ
-  - สนับสนุน operations และ marketing ด้วยข้อมูลและโลจิสติกส์คอร์สโดยใช้ agentic workflows เพื่อเพิ่มผลิตภาพ 50%
+#entry([นักพัฒนาระบบแบบครบวงจร], [BIZCUBE Chula, คณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย], [มี.ค. 2026 - ก.ค. 2026], [กรุงเทพมหานคร ประเทศไทย])[
+  - พัฒนาระบบขายคอร์สและระบบชำระเงิน รองรับยอดธุรกรรมรวมประมาณ 8 ล้านบาท
+  - พัฒนาระบบสำหรับผู้ใช้และผู้ดูแลระบบเพื่อรองรับการดำเนินงานของคอร์ส
+  - สนับสนุนทีมปฏิบัติการและการตลาดด้วยข้อมูลและการจัดการคอร์ส โดยใช้ขั้นตอนการทำงานแบบเอเจนต์เพื่อเพิ่มประสิทธิภาพการทำงาน 50%
 ]
 #entry([นักวิจัยฝึกงานด้าน Speech & Multimodal Learning], [OpenThaiGPT Lab / iApp Technology / Super AI Engineer SS5 Research Track], [พ.ค. 2025 - มี.ค. 2026], [กรุงเทพมหานคร ประเทศไทย])[
   - ศึกษาการคัดเลือกเสียงสังเคราะห์แบบ data-centric สำหรับ Thai ASR และ Whisper fine-tuning
@@ -82,7 +82,7 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 #entry([ผู้ช่วยสอน ITE68367 Special Topics in Digital Technology 2], [Master of Science in Information Technology, Sripathum University], [มิ.ย. 2026 - ก.ค. 2026], [ประเทศไทย])[
   - พัฒนา LMS ของรายวิชา ตรวจงาน และสอนหัวข้อ agentic AI tools และ LLM prompting
 ]
-#entry([ผู้ช่วยสอน], [Artificial Intelligence Association of Thailand], [พ.ค. 2026 - มิ.ย. 2026], [ปทุมธานี ประเทศไทย])[
+#entry([ผู้ช่วยสอน], [สมาคมปัญญาประดิษฐ์ประเทศไทย], [พ.ค. 2026 - มิ.ย. 2026], [ปทุมธานี ประเทศไทย])[
   - ผู้ช่วยสอน Super AI Engineer Season 6: Digital Workforce Transformation
 ]
 #entry([ผู้ช่วยสอน], [กองทัพอากาศ], [21-24, 27 เม.ย. 2026], [ประเทศไทย])[
@@ -96,8 +96,8 @@ Data-centric machine learning; low-resource ASR; synthetic speech และ data
 #project([CU NEX election and attendance platform], [2025 - ปัจจุบัน])[
   ระบบภายในสำหรับ candidate/admin panels, forms, attendance workflows, backend APIs, reporting, tests และ deployment ใช้งานโดยผู้ดูแล 27+ คนและผู้สมัคร 255+ คน
 ]
-#project([BIZCUBE Chula course commerce and payment interface], [มี.ค. 2026 - ก.ค. 2026])[
-  ระบบขายคอร์สและชำระเงินสำหรับ Chulalongkorn Business Administration รองรับยอดธุรกรรมรวมประมาณ 8 ล้านบาท
+#project([ระบบขายคอร์สและชำระเงิน BIZCUBE Chula], [มี.ค. 2026 - ก.ค. 2026])[
+  ระบบขายคอร์สและชำระเงินสำหรับคณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย รองรับยอดธุรกรรมรวมประมาณ 8 ล้านบาท
 ]
 #project([Audio-Conditioned Gain research code and experiments], [2025 - 2026])[
   งานวิจัยการคัดเลือกตัวอย่างสำหรับ low-resource Thai ASR โดยเปรียบเทียบ bottom-k, random และ top-k บน CV, FLEURS และ Porjai
