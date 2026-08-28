@@ -25,6 +25,14 @@ typst compile --root . --font-path fonts th/cv.typ th/cv.pdf
 
 The PDFs are committed so the current versions can be viewed without Typst.
 
-`locales/` holds language-specific metadata and labels. `templates/shared.typ`
-contains reusable layout primitives; subsequent localization passes will move
-document records and prose into the locale modules.
+## Editing
+
+- `locales/en.typ` and `locales/th.typ` contain all localized names, dates,
+  section order, prose, and record data for each document.
+- `data/common.typ` holds language-neutral contact data.
+- `templates/resume.typ` and `templates/cv.typ` render the locale data using
+  the shared building blocks in `templates/shared.typ`.
+
+The public compile entry points remain `en/resume.typ`, `en/cv.typ`,
+`th/resume.typ`, and `th/cv.typ`; each selects a locale and invokes its shared
+renderer.
