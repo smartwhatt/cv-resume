@@ -26,7 +26,7 @@
         title: [Research & Professional Experience],
         records: (
           (
-            title: [AI Academy Assistant Manager],
+            title: [Academy Secretary],
             org: [Artificial Intelligence Association of Thailand],
             dates: [Jun 2026 - Present], location: [Thailand],
             bullets: ([Coordinate AI Academy program operations and teaching delivery, including teaching logistics, mentor communication, learner follow-up, and project tracking.],),
@@ -88,7 +88,7 @@
       ),
       (
         kind: "entries", title: [Current Appointments & Experience], records: (
-          (title: [AI Academy Assistant Manager], org: [Artificial Intelligence Association of Thailand], dates: [Jun 2026 - Present], location: [Thailand], bullets: ([Coordinate AI Academy program operations and teaching delivery for Super AI Engineer Season 6: Digital Workforce Transformation and partner curricula.], [Coordinate teaching logistics, mentor communication, learner follow-up, and project tracking for AI training activities.], [Prepare session materials and consolidate program issues for instructors and program leads.])),
+          (title: [Academy Secretary], org: [Artificial Intelligence Association of Thailand], dates: [Jun 2026 - Present], location: [Thailand], bullets: ([Coordinate AI Academy program operations and teaching delivery for Super AI Engineer Season 6: Digital Workforce Transformation and partner curricula.], [Coordinate teaching logistics, mentor communication, learner follow-up, and project tracking for AI training activities.], [Prepare session materials and consolidate program issues for instructors and program leads.])),
           (title: [Student Research Assistant], org: [Chulalongkorn University], dates: [Mar 2026 - Present], location: [Bangkok, Thailand], bullets: ([Work on structure-from-motion methods for monocular colonoscopy polyp size estimation using physics-informed neural networks.], [Support geometric reconstruction and medical-image measurement research while continuing undergraduate study in Information and Communication Engineering.])),
           (title: [Head of IT & Backend Lead; Back End Developer], org: [CU NEX Club, with Kasikorn Business-Technology Group], dates: [Jul 2024 - Present], location: [Bangkok, Thailand], bullets: ([Lead IT and backend engineering for CU NEX and coordinate development with Kasikorn Business-Technology Group and university stakeholders.], [Architected and delivered election-management tools, including candidate/admin panels and candidate forms, used by 27+ admins and 255+ candidates.], [Defined requirements and acceptance criteria for the CU NEX attendance-check feature; coordinated backend APIs and reporting to reduce manual reconciliation by 60%.], [Established code review, CI/CD, automated tests, and deployment procedures for backend releases.], [Manage and mentor a cross-functional team of 12 developers through sprint planning, prioritization, and stakeholder communication.])),
           (title: [Technical Lead; Back End Developer; Inner of Secretary Department], org: [International School of Engineering Student Committee, Chulalongkorn University], dates: [Jul 2024 - Present], location: [Bangkok, Thailand], bullets: ([Serve as Technical Lead from Jun 2026, following Back End Developer work from Jul 2025 to Jun 2026 and Inner of Secretary Department service from Jul 2024 to Jul 2025.], [Coordinate student-committee technical work and maintain internal systems used by the International School of Engineering community.])),
